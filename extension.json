@@ -1,0 +1,20 @@
+{
+  "identifier": "sn-catppuccin",
+  "name": "Catppuccin",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "Awesome dark theme based on the Mochi Catppuccin colour palette",
+  "url": "https://cdn.jsdelivr.net/gh/ziaa-xyz/sn-catppuccin@v1.0/main.css",
+  "download_url": "https://github.com/ziaa-xyz/sn-catppuccin/archive/refs/tags/v1.0.zip",
+  "marketing_url": "https://github.com/ziaa-xyz/sn-catppuccin",
+  "thumbnail_url": "https://raw.githubusercontent.com/ziaa-xyz/sn-catppuccin/main/preview.png"
+    "latest_url": "https://listed.to/p/eY9kuTLQzB",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#adadad",
+    "foreground_color": "#ffffff",
+    "border_color": "#ffffff"
+  },
+  "statusBar" : "dark-content"
+}
