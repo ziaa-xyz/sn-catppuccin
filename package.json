@@ -1,0 +1,11 @@
+{
+        "name": "sn-catppuccin",
+        "version": "1.0",
+        "sn": {
+            "main": "main.css"
+        },
+        "repository": {
+            "type": "git",
+            "url": "git://github.com/ziaa-xyz/sn-catppuccin.git"
+        }
+}
